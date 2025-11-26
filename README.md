@@ -1,5 +1,3 @@
-Markdown
-
 # Zajno Website Clone
 
 A high-fidelity clone of the [Zajno](https://zajno.com/) digital studio website. This project aims to replicate the immersive visual experience, smooth animations, and interactive elements that define Zajno's award-winning design style.
